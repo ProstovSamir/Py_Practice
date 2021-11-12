@@ -1,1 +1,1 @@
-print("prive")
+print("privet, chto delaesh?")
